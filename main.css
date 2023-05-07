@@ -1,0 +1,277 @@
+body{
+    background-color: #F5F5F5;
+}
+
+#top-nav img{
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+#top-nav span{
+    font-family: Lora;
+    font-size: 50px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    padding-left: 60px;
+}
+
+#top-nav li{
+    font-family: Cambay;
+    font-size: 20px;
+    word-spacing: 5px;
+}
+
+.nav-link active{
+    font-weight: bold;
+}
+
+#intro{
+    background-color: #0D492C;
+    color: black;
+}
+
+#intro h2{
+    color: white;
+    font-family: Cambay;
+    font-size: 40px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    padding-top: 80px;
+}
+
+#intro p{
+    color: white;
+    font-family: Numans;
+    font-size: 24px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 80px;
+}
+
+#telo h4{
+    color: black;
+    font-family: Cambay;
+    font-size: 42px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+#ponude-div{
+    border-radius: 70px;
+    background-color: #539B6F;
+}
+
+#business-div{
+    border-radius: 70px;
+    background-color: #475D3E;
+    border: none;
+}
+
+#div-telo{
+    background-color: #F5F5F5;
+    border: none;
+    width: 269px;
+    height: 392px;
+}
+
+#telo .btn{
+    border-radius: 30px;
+    width: 200px;
+    text-align: center;
+    font-weight: 600;
+    background-color: black;
+    border: none;
+    margin-top: 30px;
+}
+
+#naslov-ponuda{
+    color: black;
+    font-family: Cambay;
+    font-size: 24px;
+    font-weight: 400;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+}
+
+#naslov-ponuda-business{
+    color: white;
+    font-family: Cambay;
+    font-size: 24px;
+    font-weight: 400;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+
+#naslov-ponuda-dedicated{
+    color: black;
+    font-family: Cambay;
+    font-size: 24px;
+    font-weight: 400;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+}
+
+#karakteristike{
+    color: black;
+    font-family: Numans;
+    font-size: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+
+#karakteristike-business{
+    color: white;
+    font-family: Numans;
+    font-size: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+
+#cena{
+    color: black;
+    font-family: Numans;
+    font-size: 28px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+
+#cena-business{
+    color: white;
+    font-family: Numans;
+    font-size: 28px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+}
+
+#ispod-ponuda-tekst{
+    color: black;
+    font-family: Cambay;
+    font-size: 30px;
+}
+
+#domeni-div{
+    border-radius: 70px;
+    background-color: #539B6F;
+    
+}
+
+#div-telo-domeni{
+    background-color: #F5F5F5;
+    border: none;
+    margin-top: 20px;
+}
+
+#tekst-domena{
+    text-align: left;
+    padding-top: 5px;
+    font-family: Numans;
+    font-size: 22px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+#cena-domena{
+    text-align: right;
+    padding-top: 5px;
+    font-family: Numans;
+    font-size: 22px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+#preporuke{
+    background-color: #0D492C;
+    margin-bottom: -20px;
+}
+
+#preporuke h4{
+    color: white;
+    font-family: Cambay;
+    font-size: 30px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+#preporuke p{
+    color: white;
+    font-family: Numans;
+    font-size: 24px;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 80px;
+}
+
+#footer{
+    background-color: #12251E;
+    padding-top: 10px;
+}
+
+#footer p{
+    color: white;
+    font-size: 18px;
+    font-family: Numans;
+}
+
+#levi-foot{
+    color: white;
+}
+
+#prvi-div p{
+    font-size: 22px;
+    font-family: Numans;
+}
+
+#prvi-div li{
+    font-size: 20px;
+    font-family: Numans;
+}
+
+#drugi-div{
+    background-color: #12251E;
+    padding-top: 30px;
+}
+
+#treci-div h6{
+    color: white;
+    font-size: 26px;
+    font-family: Numans;
+}
+
+#treci-div li{
+    color: white;
+    font-size: 20px;
+    font-family: Numans;
+}
+
+#prva-ponuda{
+    background-color: #539B6F;
+    border-radius: 70px;
+}
+
+#druga-ponuda{
+    background-color: #257C50;
+    border-radius: 70px;
+}
+
+#treca-ponuda{
+    background-color: #1C5D3E;
+    border-radius: 70px;
+}
+
+#ponuda-telo{
+    background-color: #F5F5F5;
+    border: none;
+}
